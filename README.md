@@ -36,3 +36,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Redeem Cards
+Sample redeem cards can be found in the [data](https://github.com/apeunit/aepp-redeem/tree/master/data/pdfs) folder.
